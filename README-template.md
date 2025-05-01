@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/andr-ch/Social-links-profile.git]
-- Live Site URL: [https://andr-ch.github.io/Social-links-profile/]
+- Solution URL: [https://github.com/npc-makinika/Social-links-profile.git]
+- Live Site URL: [https://npc-makinika.github.io/Social-links-profile/]
 
 ## My process
 
